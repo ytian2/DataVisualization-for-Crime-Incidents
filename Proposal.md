@@ -13,6 +13,12 @@ Naihui Wang, nwang@wpi.edu, Github ID: Naihui
 
 Link to Project Repository: https://github.com/ytian2/DataVisualization-for-Crime-Incidents/tree/master
 
+Link to Part 1: http://ytian2.github.io/DataVisFinal/part1.html
+
+Link to Part 2: http://ytian2.github.io/DataVisFinal/part2.html
+
+Link to Part 3: http://ytian2.github.io/DataVisFinal/part3.html
+
 Background and Motivation
 ---
 As everyone know, there is a tragedy in Paris caused by ISIS on Nov, 15th, 2015, and one day after that, weapons were stolen from Worcester armory. At the same day, Harvard University even received bomb threat. Just a few days before, all cars were smashed in a parking lot on a street on which many of our WPI students live. Crime incidents are just around us, in our daily lives. The world is never in peace, even in Boston neighborhood, crime incidents are everywhere, affects our daily life and safety.
