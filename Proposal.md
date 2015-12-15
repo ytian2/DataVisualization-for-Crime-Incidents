@@ -111,7 +111,7 @@ The third question is to show the crime numbers in each district. By clicking th
 
 The whole design is showed as below.
 
-![First prototype](img/design1.JPG)
+![First prototype](images/design1.JPG)
 
 (2) Second prototype:
 
@@ -125,7 +125,7 @@ The third one to for newsletters, a pie chart (figure 7) will show up with the i
 
 The whole design is showed as below.
 
-![Second prototype](img/design2.JPG)
+![Second prototype](images/design2.JPG)
 
 (3) Third prototype:
 
@@ -139,7 +139,7 @@ The third part is the crime trend. This trend visualized by bar chart. For inter
 
 The whole design is showed as below.
 
-![Third prototype](img/design3.jpg)
+![Third prototype](images/design3.jpg)
 
 (4) Final prototype
 
@@ -158,7 +158,7 @@ The third part is focused on weapon type used in every crime incident.
 We will design a pie chart (figure 7) shows the frequency of different weapons used in all crime incidents. This pie chart will link to a table (figure 8) give some tips for self – protection when faced with different weapons in crime.
 
 
-![Final prototype](img/finaldesign.JPG)
+![Final prototype](images/finaldesign.JPG)
 Must-Have Features
 ---
 (1)	For the first part, it’s focused on time trend.

@@ -6,10 +6,12 @@
 - Yang Liu, erouirior
 - Naihui Wang, Naihui
 
+Link to Project Repository: https://github.com/ytian2/DataVisualization-for-Crime-Incidents/tree/master
+
 #Links:
 ---
-- Our Demo link:[Crime Visualization Demo Link](http://erouirior.github.io/DataVisFinal/firstPage.html)<br>
-- Our Screencast link:[Screencast Link](https://www.youtube.com/watch?v=HuhswD9qbc8)<br>
+- Our Demo link:[Crime Visualization Demo Link](http://ytian2.github.io/DataVisFinal/firstPage.html)<br>
+- Our Screencast link:[Screencast Link](https://www.youtube.com/watch?v=JuHWyqIqRuc)<br>
 
 #Overview and Objective:
 ---
