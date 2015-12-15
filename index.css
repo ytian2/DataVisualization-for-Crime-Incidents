@@ -1,0 +1,243 @@
+
+
+table{
+  border-collapse:collapse;
+  border-spacing:0;
+  border-left: 1px solid Honeydew;
+  border-top: 1px solid Honeydew;
+  background: Honeydew;
+  margin-left: 50px;
+  margin-top:30px;
+  margin-right:auto;
+  text-align: center;
+  width: 50%;
+  border-top-color: Honeydew;
+}
+
+th,td{
+  border-right:1px solid #888;
+  border-left:1px solid #888;
+  border-top:1px solid #888;
+  border-bottom:1px solid #888;
+  padding:5px 15px;
+  text-align: center;
+}
+
+th{
+  font-weight:bold;
+  background:#ccc;}
+
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.lineText{
+   fill: black;
+   text-anchor:middle;
+   font-size: 12px;
+   font-family: sans-serif;
+  }
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+hr { border-bottom: 3px double #d9d9d9;
+     border-width: 0 0 3px; 
+     clear: both;
+     color: #fff;
+     margin: 25px 0; 
+}
+h1{
+  text-align: center;
+  color: #005b82；
+  font-style: #005b82;
+}
+
+h2{
+  margin-left: 200px;
+  text-align: center;
+  color: #005b82；
+
+}
+
+h3{
+  margin-top: 100px;
+  text-align: center;
+  color: #005b82；
+}
+#nav { 
+  background: #005b82;
+  font-size: 15px; 
+  padding: 0.6em; 
+}
+
+
+
+html,h1,h2,body{
+  border: 0;
+  font-family: inherit;
+ 
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+  color: #005b82;
+}
+#title{
+  background-color: PowderBlue;
+
+}
+
+#topContainer{
+  width:1200px;
+  height: 650px;
+}
+
+#topLeft{
+  margin-left: 70px;
+  margin-top: 25px;
+  width:400px;
+  height:600px;
+  float:left;
+}
+
+#horizontalBar{
+  width:400px;
+  height: 200px;
+  float:left;
+  top: 30px;
+}
+
+div#horizontalBar {}
+
+div#topLeft {}
+
+#wordCloud{
+  width:400px;
+  height:400px;
+  float:left;
+  margin-top: 10px;
+}
+
+#topRight{
+  margin-left: 50px;
+  width:600px;
+  height:600px;
+  float:left;
+}
+
+#menu{
+  margin-top: 10px;
+  width:600px;
+  height:20px;
+  float:left;
+ }
+
+#barMonth{
+  width:600px;
+  height:200px;
+  float:left;
+}
+
+#chart{
+  width:600px;
+  height:280px;
+  float:left;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+#weaponText{
+  margin-top: 0px;
+  width:600px;
+  height:50px;
+  float:left;
+  text-align: left;
+}
+
+#container{
+  width: 1200px;
+  height: 550px;
+}
+
+#left{
+  margin-left: 70px;
+  width: 700px;
+  height:500px;
+  float:left;
+}
+
+#bar{
+  margin-left: 80px;
+  width: 700px;
+  height:250px;
+  float:left;
+}
+
+#bottom{
+  width: 700px;
+  height:250px;
+  float:left;
+}
+
+#line1{
+  width: 350px;
+  height:250px;
+  float:left;
+}
+
+#line2{
+  width: 350px;
+  height:250px;
+  float:left;
+}
+
+#table{
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 300px;
+  height:500px;
+  float:left;
+}
+
+#bottomText{
+  background-color: PowderBlue;
+
+}
+rect.bordered {
+        stroke: #E6E6E6;
+        stroke-width:2px;   
+      }
+
+text.mono {
+        font-size: 9pt;
+        font-family: Consolas, courier;
+        fill: #aaa;
+      }
+
+text.axis-workweek {
+        fill: #000;
+      }
+
+text.axis-worktime {
+        fill: #000;
+      }

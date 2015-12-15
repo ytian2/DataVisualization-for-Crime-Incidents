@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+
+<head>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="http://d3js.org/d3.v3.js"></script>
+  <script type="text/javascript" src="http://mbostock.github.com/d3/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="d3.layout.cloud.js"></script>
+  <script src="part1.js "></script>
+  <script src="part2.js "></script>
+  <link rel="stylesheet" type="text/css"  href="index.css">
+</head>
+
+
+<body>
+ 
+<div id="title">
+  <p>&nbsp;</p>
+  <h1>
+   <b>Crime in Boston Neighborhood </b>
+   
+ </h1>
+  <p>&nbsp;</p>
+</div>
+  
+<div id="topContainer">
+  <p style="margin-left: 60px;
+  font-style: italic;">
+    The first part consists 4 vitualizations. 
+
+    In the left, the bar chart shows the total number of crimes happened in different area of Boston within 3 years. When you click on the bar chart, there is a wordclub showed below which can tell you which street in this area is most dangerous. The larger the font size of the street name is, the larger amount of crimes happened in this street for the past 3 years. 
+
+    In the right, for a secefic area of Boston for example south end, you can select specific street of this area from the menu. Then there is another bar chart showed in the right side of this part which showed the number of crimes happended in different month. It can tell you which month has a high frenqucy of crimes. 
+
+    Also there is a heatmap showed below the barchart in the right. This heatmap showed in which time and day the crimes happened. And what kind of crime it is.  
+  </p>
+
+<div id="topLeft">
+<div id="horizontalBar"></div>
+<div id="wordCloud"></div>
+<div id="wordText">
+
+</div>
+</div>
+
+<div id="topRight">
+<div id="menu"></div>
+<div id="barMonth"></div>
+<div id="chart"></div>
+<div id="weaponText"></div>
+
+</div>
+
+</div>
+
+<hr>
+
+<div id="middleTable">
+<h2> What should you do when you were threatened by following weapons in a crime incident?</h2>
+
+<table style="width:90%">
+<caption><strong><em>Gentle Suggestions</em></strong></caption>
+<tr>
+    <th>Weapon Type</th>
+    <th>Tips</th>   
+  </tr>
+  <tr>
+
+    <td>Blunt</td>
+    <td>The choices are simple... Run away, or close the distance and strike while defending.</br>  Staying in range of the stick, but out of range to counter attack, is potentially the biggest mistake you could make in this situation.</br>  Remember, the stick will be moving fastest at the point furthest from the attackers arm, so getting inside that point on the stick is crucial.</td>   
+  </tr>
+  <tr>
+    <td>Firearm</td>
+    <td>Don't touch!</br>Leave the area.</br>Indoors, the overpressure from firing the gun has nowhere to go and is reflected back at you from the walls.</br>It can be conducted to your inner ear through the mastoid bone and do damage even though you don't feel anything.</br>You should probably use both muffs and plugs simultaneously and always get the highest rated ones you can find.</br></td>   
+  </tr>
+  <tr>
+    <td>Knife</td>
+    <td>If you can see the knife in hand and the attacker is some distance away – widen that distance, run away!</br> If there’s no where to run or you can’t leave the situation for some reason, then get something solid between you and the attacker (chair, baseball bat, rucksack, anything – just enough to distract him, so you can go to work on him).</br>Take careful note where his hands are and what he is doing with them.</br>If his hands are empty and you get in to a scuffle, he may reach in to his pocket and take a blade out and get use it – So, watch those hands – again if you have any training – trap the arms/hands while striking him.</br></td>   
+  </tr>
+</tr>
+<tr>
+    <td>Personal Weapon (hand foot etc.)</td>
+    <td>If a robber asks for your wallet and/or purse, DO NOT HAND IT TO HIM.</br> Toss it away from you....chances are that he is more interested in your wallet and/or purse than you, and he will go for the wallet/purse.</br> RUN LIKE MAD IN THE OTHER DIRECTION!</br> If you are ever thrown into the trunk of a car, kick out the back tail lights and stick your arm out the hole and start waving like crazy.</br> The driver won't see you, but everybody else will. This has saved lives.</td>    
+  </tr>
+<tr>
+    <td>Unarmed</td>
+    <td>Still Watch out, please! :-)</td>   
+  </tr>
+</table>
+</div>
+<hr>
+<div id = "container">
+
+<h2> If you still want to know more detailed information about crime numbers, please go through
+     data below.</h2>
+<p style="margin-left: 60px;font-style: italic;">
+    The bar chart of this part shows the crime numbers of different years. For each year, the table shows different crime numbers for diffrent districts. When you click on diffrent distric name, the line chart shows the number of crimes of diffrent month of this distict.
+  </p>
+<div id = "left">
+
+ <div id="bar"></div>
+
+<div id="bottom">
+<div id="line1"> </div>
+ <div id="line2"> </div>
+</div>
+ 
+</div>
+  <div id="table"></div>
+  <p>&nbsp</p>
+</div>
+<p>&nbsp</p>
+<p>&nbsp</p>
+<div id = "bottomText">
+<p>&nbsp</p>
+<p style="margin-left: 20px;">Team Member:</p>
+<p style="margin-left: 70px;">Yu Tian</p>
+<p style="margin-left: 70px;">Yang Liu</p>
+<p style="margin-left: 70px;">Naihui Wang</p>
+<p>&nbsp</p>
+</div>
+
+</body>
+ 
+</html>
