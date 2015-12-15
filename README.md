@@ -10,13 +10,9 @@ Link to Project Repository: https://github.com/ytian2/DataVisualization-for-Crim
 
 #Links:
 ---
-<<<<<<< HEAD
-- Our Demo link:[Crime Visualization Demo Link](http://ytian2.github.io/DataVisFinal/firstPage.html)<br>
-- Our Screencast link:[Screencast Link](https://www.youtube.com/watch?v=JuHWyqIqRuc)<br>
-=======
 - Our Demo link:[Crime Visualization Demo Link](http://ytian2.github.io/DataVisualization-for-Crime-Incidents/code/firstPage.html)<br>
-- Our Screencast link:[Screencast Link](https://www.youtube.com/watch?v=HuhswD9qbc8)<br>
->>>>>>> origin/master
+- Our Screencast link:[Screencast Link](https://www.youtube.com/watch?v=JuHWyqIqRuc)<br>
+
 
 #Overview and Objective:
 ---
