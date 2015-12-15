@@ -8,7 +8,7 @@
 
 #Links:
 ---
-- Our Demo link:[Crime Visualization Demo Link](http://erouirior.github.io/DataVisFinal/firstPage.html)<br>
+- Our Demo link:[Crime Visualization Demo Link](http://ytian2.github.io/DataVisualization-for-Crime-Incidents/code/firstPage.html)<br>
 - Our Screencast link:[Screencast Link](https://www.youtube.com/watch?v=HuhswD9qbc8)<br>
 
 #Overview and Objective:
